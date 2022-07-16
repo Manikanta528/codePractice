@@ -1,5 +1,7 @@
 package com.manikanta.geekforgeeks;
 
+//https://practice.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1?page=1&category[]=Bit%20Magic&sortBy=submissions
+
 public class FindFirstSetBit {
     public static void main(String[] args) {
         int n = 32;
