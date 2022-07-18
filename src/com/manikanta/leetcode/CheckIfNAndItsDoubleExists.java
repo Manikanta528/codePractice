@@ -7,7 +7,6 @@ public class CheckIfNAndItsDoubleExists {
         int arr[] = {10,2,5,3};
         System.out.println(checkIfExists(arr));
     }
-
     private static boolean checkIfExists(int[] arr) {
         int len = arr.length;
         for(int i = 0 ; i < len; i++){
