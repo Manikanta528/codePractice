@@ -1,4 +1,4 @@
-# codePractice
 
-### CP 
-day to day solved geekforgeeks and leetcode problems
+### LeetCode And GeeksForGeeks
+
+Collection of LeetCode And GeeksForGeeks questions for coding practice!
