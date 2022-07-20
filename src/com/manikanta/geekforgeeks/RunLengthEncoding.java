@@ -16,7 +16,7 @@ class RunLengthEncoding
               if(str.charAt(i) == str.charAt(p)){
                   count++;
               }else{
-                  s = count+s;
+                  s = Integer.toString(count)+s;
                   s = str.charAt(p)+s;
                   count=0;
                   p=i;
