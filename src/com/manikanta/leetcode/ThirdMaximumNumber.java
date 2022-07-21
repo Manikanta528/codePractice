@@ -43,7 +43,6 @@ class ThirdMaximumNumber {
         }
         if(max3  == Long.MIN_VALUE) return (int)(max1 > max2 ? max1 : max2);
         return (int)max3;
-
          */
     }
 }
