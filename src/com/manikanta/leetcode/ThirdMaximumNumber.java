@@ -21,6 +21,7 @@ class ThirdMaximumNumber {
             return Collections.max(set);
         }
         return Collections.max(set);
+        //commit changes
         /* //three var  method
         int n = nums.length;
         if(n == 1) return nums[n-1];
