@@ -11,6 +11,7 @@ public class CountofSmallerNumbersAfterSelf {
     public static List<Integer> countSmaller(int[] nums) {
 
         // brute force
+        //Time Limit Error
         List<Integer> list = new ArrayList<>();
         int n = nums.length;
         for (int i = 0; i < n-1; i++) {
