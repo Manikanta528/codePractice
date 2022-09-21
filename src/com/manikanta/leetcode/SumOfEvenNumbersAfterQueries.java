@@ -1,5 +1,7 @@
 package com.manikanta.leetcode;
 
+//https://leetcode.com/problems/sum-of-even-numbers-after-queries/
+
 import java.util.Arrays;
 
 public class SumOfEvenNumbersAfterQueries {
