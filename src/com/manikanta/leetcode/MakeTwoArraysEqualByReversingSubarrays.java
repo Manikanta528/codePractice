@@ -1,5 +1,7 @@
 package com.manikanta.leetcode;
 
+//https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/
+
 import java.util.HashMap;
 
 public class MakeTwoArraysEqualByReversingSubarrays {
